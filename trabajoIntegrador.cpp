@@ -57,21 +57,21 @@ void menu(int bandera){ // inicio funcion main menu...
 				 
 			  }
 			  else if(opc == 2){
-				 printf(" \n Inserci�n o m�todo de la baraja ");
+				 printf(" \n Insercion o metodo de la baraja ");
 				 printf("\n");
 				 printf("Desea ingresar al menu(1 = Entrar, 0 = Salir) : ");
                  scanf("%d",&bandera);
 				 
 			  }
 			  else if(opc == 3){
-				 printf(" \n Selecci�n o m�todo sencillo ");
+				 printf(" \n Seleccion o metodo sencillo ");
 				 printf("\n");
 				 printf("Desea ingresar al menu(1 = Entrar, 0 = Salir) : ");
                  scanf("%d",&bandera);
 				 
 			  }
 			  else if(opc == 4){
-				 printf(" \n R�pido o QuickSort ");
+				 printf(" \n Ra-pido o QuickSort ");
 				 printf("\n");
 				 printf("Desea ingresar al menu(1 = Entrar, 0 = Salir) : ");
                  scanf("%d",&bandera);
